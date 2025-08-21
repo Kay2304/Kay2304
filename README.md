@@ -1,5 +1,7 @@
 # 💻 Data Scientist Portfolio
 
+🌐 **Live Portfolio:** [kay2304.github.io](https://kay2304.github.io)  
+
 Welcome to my personal portfolio repository!  
 This portfolio showcases my **skills, featured projects, and contact information** in a clean and classy design.  
 
