@@ -1,48 +1,57 @@
-<h1 align="center">Hi, I'm Keletso Mashabela (Kay) 👋</h1>
-<p align="center"><b>Data Scientist & Analyst</b> — Machine Learning • EDA • Recommender Systems • SQL</p>
+# 💻 Data Scientist Portfolio
 
-<p align="center">
-  <a href="https://github.com/Kay2304?tab=repositories">Projects</a> •
-  <a href="https://kay2304.github.io">Portfolio Website</a> •
-  <a href="mailto:keletso.xavi2@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/keletso-mashabela-2a6a86248/">LinkedIn</a> •
-  <a href="https://www.kaggle.com/kay2304">Kaggle</a>
-</p>
+Welcome to my personal portfolio repository!  
+This portfolio showcases my **skills, featured projects, and contact information** in a clean and classy design.  
+
+## ⚡ Skills
+
+- **Programming Languages & Databases**  
+  Python (Data Analysis, Scripting) • SQL • PostgreSQL • MySQL • SQLAlchemy  
+
+- **Data Analysis & Visualization**  
+  Excel • Power BI • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn  
+
+- **Tools & Other Skills**  
+  Git & GitHub • Jupyter Notebook • Docker • Database Design • ETL Pipelines  
 
 ---
 
 ## 🚀 Featured Projects
 
-- **🎬 Netflix × IMDb Analysis**  
-  Integrated Netflix catalog with IMDb ratings to uncover **genre trends, top titles, and global content patterns**.  
-  📂 Repo: [netflix-imdb-analysis](https://github.com/Kay2304/netflix-imdb-analysis)
+- **Netflix × IMDb Analysis**  
+  Merged Netflix catalog with IMDb ratings. Explored genre trends, top titles, and country patterns.  
+  🔗 [GitHub Repo](https://github.com/Kay2304/netflix-imdb-analysis)
 
-- **🚢 Titanic — Survival Prediction (Kaggle)**  
-  Performed **EDA, feature engineering, and ML modeling** to predict survival probabilities with interpretable results.  
-  📂 Repo: [titanic-survival-prediction](https://github.com/Kay2304/titanic-survival-prediction)
+- **Titanic — Survival Prediction**  
+  EDA, feature engineering, and baseline ML models with evaluation.  
+  🔗 [Repo](https://github.com/Kay2304/titanic-survival-prediction) | 
+  [Notebook](https://github.com/Kay2304/titanic-survival-prediction/blob/main/titanic-ml-project.ipynb)
+
+- **MovieLens — User CF Recommender**  
+  Built a collaborative filtering system recommending movies to users based on preferences.  
+  🔗 [Repo](https://github.com/Kay2304/movielens-user-cf-recommender) | 
+  [Notebook](https://github.com/Kay2304/movielens-user-cf-recommender/blob/main/Movie_Recommender_System.ipynb)
 
 - **📊 March ML Mania 2025**  
   Ongoing practice repository for **ML experiments, competition prep, and utility scripts**.  
   📂 Repo: [march-ml-mania-2025](https://github.com/Kay2304/march-ml-mania-2025)
 
----
-
-## 🧭 About Me  
-I’m a **data science and analytics practitioner** passionate about turning raw data into **actionable insights and predictive models**.  
-I enjoy working on projects that combine **data wrangling, visualization, and machine learning**, with a strong focus on clarity, reproducibility, and storytelling.
 
 ---
 
-## 🧰 Tech Stack  
-- **Languages & Tools:** Python, SQL, Git, Jupyter, VS Code  
-- **Data & ML:** pandas, NumPy, scikit-learn, SciPy  
-- **Visualization:** matplotlib, seaborn, plotly, Power BI  
-- **Focus Areas:** Exploratory Data Analysis, Predictive Modeling, Recommender Systems, Data Visualization  
+## 🎓 Education & Certifications
+
+- **Data Science Course** — ALX & Explore AI (May 2025)  
+  📜 [Certificate](https://savanna.alxafrica.com/certificates/PC8mcpGxY9)
 
 ---
 
-## 📫 Contact  
-- **Email:** [keletso.xavi2@gmail.com](mailto:keletso.xavi2@gmail.com)  
-- **GitHub:** [@Kay2304](https://github.com/Kay2304)  
-- **Kaggle:** [kay2304](https://www.kaggle.com/kay2304)  
-- **LinkedIn:** [Keletso Mashabela](https://www.linkedin.com/in/keletso-mashabela-2a6a86248/)  
+## 📫 Contact
+
+- 📧 Email: [keletso.xavi2@gmail.com](mailto:keletso.xavi2@gmail.com)   
+- 📊 Kaggle: [kay2304](https://kaggle.com/kay2304)  
+- 🔗 LinkedIn: [Keletso Mashabela](https://linkedin.com/in/keletso-mashabela-2a6a86248/)  
+
+---
+
+✨ Built with passion for **data-driven solutions, storytelling through visualization, and machine learning**.
