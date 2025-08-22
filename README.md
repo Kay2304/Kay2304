@@ -1,9 +1,11 @@
-# 💻 Data Scientist Portfolio
+# 👋 Hi, I'm Keletso Mashabela 
+
+💻 **Data Scientist**
+Passionate about turning raw data into insights and building machine learning models that solve real-world problems.  
 
 🌐 **Live Portfolio:** [kay2304.github.io](https://kay2304.github.io)  
 
-Welcome to my personal portfolio repository!  
-This portfolio showcases my **skills, featured projects, and contact information** in a clean and classy design.  
+---
 
 ## ⚡ Skills
 
